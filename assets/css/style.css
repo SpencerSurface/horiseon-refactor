@@ -34,12 +34,12 @@ header nav {
     margin-right: 20px;
     float: right;
     font-size: 20px;
-    list-style-type: none;
 }
 
 header nav a {
     display: inline-block;
     margin-left: 25px;
+    /* Remove link underlining */
     text-decoration: none;
 }
 
@@ -118,11 +118,10 @@ footer {
     text-align: center;
 }
 
-footer h2 {
-    font-size: 20px;
+footer * {
     color: #000000;
 }
 
-footer p {
-    color: #000000;
+footer h2 {
+    font-size: 20px;
 }
