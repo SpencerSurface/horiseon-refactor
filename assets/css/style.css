@@ -51,7 +51,7 @@ header nav a {
 img.hero {
     height: 800px;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 21px;
     /* Keep image's aspect ratio */
     object-fit: cover;
 }
